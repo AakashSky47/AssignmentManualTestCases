@@ -1,27 +1,39 @@
-Project Title:
-Company Website & Mobile Application – Functional Test Cases
+<!DOCTYPE html>
+<html>
+<head>
+  <title>README - Functional Test Cases</title>
+</head>
+<body>
 
-Overview:
-This document contains functional test cases designed for the Company Website and Mobile Application. The test cases validate the core functionality of the system, focusing on internet speed measurement and related behaviors.
+  <h2>Company Website & Mobile Application – Functional Test Cases</h2>
 
-Scope of Testing:
+  <p>
+    This document contains <b>only functional test cases</b> for the Company Website
+    and Mobile Application, prepared as per the given assignment instructions.
+  </p>
 
-Functional testing of the website
+  <h3>Scope of Testing</h3>
+  <ul>
+    <li>Website functional testing</li>
+    <li>Mobile application functional testing</li>
+    <li>Internet speed measurement functionality</li>
+  </ul>
 
-Functional testing of the mobile application
+  <h3>Out of Scope</h3>
+  <ul>
+    <li>UI / layout / design testing</li>
+    <li>Browser compatibility testing</li>
+    <li>Visual validations</li>
+  </ul>
 
-Internet speed calculation and result validation
+  <h3>Test Case Structure</h3>
+  <p>
+    Each test case includes Test Scenario ID, Test Case ID, Precondition, Steps,
+    Input Data, and Expected Result. Execution fields are kept blank for test execution.
+  </p>
 
-Out of Scope:
+  <p><b>Note:</b> All test cases focus strictly on functional behavior.</p>
 
-UI, layout, and design validation
+</body>
+</html>
 
-Browser compatibility testing
-
-Visual and cosmetic checks
-
-Test Case Structure:
-Each test case is documented with clear preconditions, steps, input data, and expected results. Execution-related fields are intentionally left blank for testing purposes.
-
-Remarks:
-All test cases are written in compliance with the assignment guidelines and cover only functional scenarios.
